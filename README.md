@@ -1,0 +1,1 @@
+# Reliability-of-capacitated-systems-with-performance-sharing-mechanism
